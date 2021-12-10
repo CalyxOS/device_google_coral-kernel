@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cdeacc0c_4df9a0f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-10T19:27:45Z",
+      "side": 1,
+      "message": "wlan.ko size",
+      "revId": "7921a6d715701c8fee573ef314dd94337f2ff129",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
