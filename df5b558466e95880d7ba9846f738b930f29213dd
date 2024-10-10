@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "307c1cfd_b4e7e53a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-10-10T22:46:56Z",
+      "side": 1,
+      "message": "local build was fine on coral, and sunfish prod build is fine too.",
+      "revId": "df5b558466e95880d7ba9846f738b930f29213dd",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
