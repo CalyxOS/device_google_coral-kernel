@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d68f89f_0ff04b35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-03T22:23:20Z",
+      "side": 1,
+      "message": "`sunfish` is fine.",
+      "revId": "43d8ba895749256498e4edb905a01ebb79106d65",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
